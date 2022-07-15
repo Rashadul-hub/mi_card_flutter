@@ -1,8 +1,13 @@
 # mi_card_flutter
+* Project Demo 
 
-A new Flutter project.
+![Screen Shot 2022-07-16 at 12 49 21 AM](https://user-images.githubusercontent.com/84420804/179291843-4c3cbd0c-8544-4985-a33b-c5c91d394c77.png)
+
+
 
 ## Getting Started
+A new Flutter Business Card App.
+
 
 This project is a starting point for a Flutter application.
 
